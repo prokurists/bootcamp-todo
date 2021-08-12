@@ -1,0 +1,21 @@
+/** @format */
+
+.row {
+  margin-top: 20px;
+}
+
+.todo-list-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.template {
+  display: none;
+}
+
+.todo-list-item .description {
+  /*
+  word-wrap: break-word;
+  word-break: break-all;
+  */
+}
